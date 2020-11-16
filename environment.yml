@@ -8,3 +8,4 @@ dependencies:
     - pandas
     - thinc
     - handcalcs
+    - sympy
