@@ -4,7 +4,6 @@ dependencies:
     - ipykernel
     - scipy
     - numpy
-    - pylab
     - matplotlib
     - pandas
     - thinc
